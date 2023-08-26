@@ -41,3 +41,11 @@ criar_carro('Palio',1999, 'ABC-1234', marca='Fiat', motor='1.00',combustivel='Fl
 #nomeação = *
 # e pode usar um hibrido
 
+salario = 2000 #valiavel na raiz
+
+def salario_bonus(bonus):
+    global salario #chamando a variavel fora da função, utilizando a palavra reservada global
+    salario += bonus
+    return salario
+
+print(salario_bonus(1000))
