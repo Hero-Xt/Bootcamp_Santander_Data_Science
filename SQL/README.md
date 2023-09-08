@@ -1,2 +1,2 @@
-# D.I.O_bootcamp_santander_relacional
- Aulas SQL bootcamp santander 2023
+# D.I.O_bootcamp_santander_2023
+ Aulas SQL
