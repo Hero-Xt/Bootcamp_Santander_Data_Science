@@ -1,0 +1,19 @@
+SQL - Structured Query Language
+Linguagem de consulta padronizada
+
+DQL - Linguagem de Consulta de dados
+    Select
+DML - Linguagem de Manipulaçao de dados
+    Insert, Update e Delete
+DDL - Linguagem de Definição de dados
+    Create, alter, drop
+
+    DCL - Linguagem de controle de dados
+        Grant, Revok
+    DTL - Linguagem de Transação de Dados
+        Begin, commit, rollvack
+
+Sintaxe Básica: Nomeclatura
+    Os nomes devem começar com uma letra ou com um caractere de sublinhado (_)
+*** Os nomes podem conter letras, números e caracteres de sublinhado (_).
+Sensibilidade a maiúsculas e minúsculas

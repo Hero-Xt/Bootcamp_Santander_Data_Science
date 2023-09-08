@@ -1,0 +1,38 @@
+Um banco de dados é uma coleção organizada de 
+informações ou dados que são armazenados de forma 
+estruturada e podem ser facilmente acessados, gerenciados
+e atualizados. Eles são usados para armazenar informações
+de forma eficiente, permitindo que as pessoas, aplicativos 
+e sistemas recuperem dados quando necessário.
+
+Relacionais
+Não Relacionais
+
+SGBD - sistema de gerenciamento d ebanco de dados
+
+C-reat
+R-ead
+U-pdate
+D-elete
+
+Caracteristicas em um banco de dados relacional
+- Relacionamento entre tabelas
+- Linguagem de Consulta Estruturada (SQL)
+- Integridade referencial Ex: dados orfãos 
+- Normalização de dados
+- Segurança
+- Flexibilidade e extensibilidade
+- Suporte a transações ACID
+
+ACID - ACID é um acrônimo usado para descrever um 
+conjunto de propriedades de transações em bancos de dados. 
+Essas propriedades garantem que as transações sejam 
+processadas de forma confiável e consistente, mesmo em 
+cenários de falhas.
+
+A-tomicidade - uma transação é executada completamente ou não é executada de forma alguma.
+C-onsistência - a transação deve respeitar todas as regras de integridade e restrições definidas no banco de dados.
+I-solamento - uma transação de ocorrer independentemente de outras transações em execução.
+D-urabilidade - após uma transação ter sido confirmada (commit), as alterações feitas no banco de dados sejam 
+permanentes e sobrevivam a falhas, incluindo falhas de hardware ou software.
+
