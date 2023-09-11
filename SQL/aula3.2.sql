@@ -5,6 +5,14 @@ INSERT INTO viagens.usuarios (id, nome, email, data_nascimento, endereco) VALUES
 (2, 'Maria Santos', 'maria@example.com', '1985-08-22', 'Rua B, 456, Cidade Y, Estado Z'),
 (3, 'Pedro Souza', 'pedro@example.com', '1998-02-10', 'Avenida C, 789, Cidade X, Estado Y');
 
+
+-- Inserts --
+INSERT INTO viagens.usuarios (id, nome, email, data_nascimento, endereco) VALUES 
+(1, 'João Silva', 'joao@example.com', '1990-05-15', 'Rua A, 123, Cidade X, Estado Y'),
+(2, 'Maria Santos', 'maria@example.com', '1985-08-22', 'Rua B, 456, Cidade Y, Estado Z'),
+(3, 'Pedro Souza', 'pedro@example.com', '1998-02-10', 'Avenida C, 789, Cidade X, Estado Y');
+
+
 INSERT INTO viagens.destinos (id, nome, descricao) VALUES 
 (1, 'Praia das Tartarugas', 'Uma bela praia com areias brancas e mar cristalino'),
 (2, 'Cachoeira do Vale Verde', 'Uma cachoeira exuberante cercada por natureza'),
